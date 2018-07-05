@@ -1,0 +1,6 @@
+.*.sw[po]
+/lib/*.jar
+/bin
+/dist
+/doc/api
+/res/jquery.js

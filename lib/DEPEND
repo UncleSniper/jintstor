@@ -1,0 +1,8 @@
+Place the following files into this directory:
+
+  - jetty-http-*.jar
+  - jetty-io-*.jar
+  - jetty-rewrite-*.jar
+  - jetty-server-*.jar
+  - jetty-util-*.jar
+  - servlet-api-*.jar
